@@ -42,4 +42,6 @@ This project aims to:
 - Identify high-risk employee segments
 - Support HR decision-making
 - Improve workforce retention strategies
+- <img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/e3f69c07-48c4-4a2a-ae22-55001394e1e7" />
+
   
